@@ -1,0 +1,27 @@
+total 96
+drwxr-xr-x 2 root root 4096 Jun 14 09:06 .
+drwxr-xr-x 6 root root  149 Jun 14 03:56 ..
+-rwxr--r-- 1 root root   30 Jun 14 04:13 0-hello_world
+-rwxr--r-- 1 root root   34 Jun 14 04:11 0-hello_world~
+-rw-r--r-- 1 root root   19 Jun 14 04:53 #1-confused_smiley#
+-rwxr--r-- 1 root root   28 Jun 14 08:42 1-confused_smiley
+-rwxr--r-- 1 root root   25 Jun 14 04:56 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Jun 14 07:22 2-hellofile
+-rw-r--r-- 1 root root   28 Jun 14 05:17 2-hellofile~
+-rwxr--r-- 1 root root   39 Jun 14 07:25 3-twofiles
+-rw-r--r-- 1 root root   38 Jun 14 05:25 3-twofiles~
+-rwxr--r-- 1 root root   29 Jun 14 05:33 4-lastlines
+-rw-r--r-- 1 root root   28 Jun 14 05:32 4-lastlines~
+-rwxr--r-- 1 root root   29 Jun 14 05:56 5-firstlines
+-rw-r--r-- 1 root root   28 Jun 14 05:55 5-firstlines~
+-rwxr--r-- 1 root root   49 Jun 14 07:58 6-third_line
+-rw-r--r-- 1 root root   48 Jun 14 07:58 6-third_line~
+-rwxr--r-- 1 root root   83 Jun 14 08:48 7-file
+-rwxr--r-- 1 root root   82 Jun 14 08:46 7-file~
+-rwxr--r-- 1 root root   37 Jun 14 09:06 8-cwd_state
+-rw-r--r-- 1 root root   37 Jun 14 09:04 8-cwd_state~
+-rw-r--r-- 1 root root   35 Jun 14 08:07 iacta
+-rw-r--r-- 1 root root   13 Jun 14 08:03 iacta~
+-rw-r--r-- 1 root root    0 Jun 14 09:06 ls_cwd_content
+-rw-r--r-- 1 root root    6 Jun 14 08:45 rat
+-rw-r--r-- 1 root root   41 Jun 14 04:00 README.md
