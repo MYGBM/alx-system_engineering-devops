@@ -1,1 +1,1 @@
-**scripts for redirections and filters**
+#!/bin/bash
